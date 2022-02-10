@@ -1,0 +1,33 @@
+.modalContainer{
+    width: 100%;
+    display: flex;
+    font-size: 10px;
+    align-items: center;
+    align-content: space-around;
+}
+
+.modalPicture {
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+}
+
+.loader {
+    border-radius: 0;
+    margin: auto;
+    display: block;
+}
+
+button {
+    margin: 20px auto 10px auto;
+    display: block;
+    background-color: #dddddd;
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+}
+
+.info {
+    margin: auto;
+}
+

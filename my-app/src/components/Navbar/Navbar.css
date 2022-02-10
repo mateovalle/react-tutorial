@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #026d89;
+    padding: 15px;
+    position: sticky;
+}
+ul {
+    display: flex;
+    align-content: space-between;
+    list-style-type: none;
+}
+
+li {
+    margin: auto;
+}
+
+.active {
+    outline: 2px solid #61dafb;
+}
+
+a {
+    text-decoration: none;
+    padding: 3px;
+    color: #61dafb;
+}

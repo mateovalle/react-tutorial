@@ -1,0 +1,21 @@
+@import url('http://fonts.cdnfonts.com/css/sf-pixelate');
+
+.item-modal-img {
+    width: 100px;
+    float: right;
+}
+
+.item-modal-title {
+    font-family: 'SF Pixelate', sans-serif;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+    display: block;
+}
+
+.item-modal-atribute {
+    font-family: 'SF Pixelate', sans-serif;
+    display: block;
+    margin: 10px;
+    line-height: 20px;
+}

@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+    padding: 10px;
+    background-color: black;
+    height: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+ul {
+    display: flex;
+    align-content: space-between;
+    list-style-type: none;
+    position: relative;
+    top: 0;
+}
+
+li {
+    margin: auto;
+
+}
+
+.active {
+    color: #1d1aaf;
+}
+
+a {
+    text-decoration: none;
+    color: #7c7c7c;
+    font-size: 50px;
+}
+
+.navbar button {
+    background: none;
+    color: #7c7c7c;
+    font-size: 25px;
+}
+
+.navbar button:hover {
+    cursor: pointer;
+}

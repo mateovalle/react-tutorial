@@ -1,0 +1,10 @@
+.card-picture {
+    object-fit: contain !important;
+}
+
+.card-container {
+    border: 5px inset gold;
+    height: 95%;
+    width: 95%;
+}
+

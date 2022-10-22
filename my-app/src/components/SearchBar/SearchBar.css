@@ -1,0 +1,11 @@
+.search-input {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.search-container {
+    display: flex;
+    align-content: center;
+}
+
+

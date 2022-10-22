@@ -3,25 +3,25 @@
     padding: 0;
 }
 
-.tag {
-    background-color: rgba(24,115,136,0.53);
+.profile-tag {
     padding: 3px;
-    border: 1px solid #171b23;
+    border: 1px solid #ddd;
     border-radius: 3px;
-    margin: 2px;
+    margin: 6px auto;
+    width: 90%;
+    max-width: 400px;
     display: flex;
     align-items: center;
     cursor: pointer;
 }
 
-.tag:hover {
+.profile-tag:hover {
     background-color: rgba(24,115,136,0.73);
 }
 
-.tag img {
+.profile-tag img {
     width: 40px;
     border-radius: 20px;
-    border: 1px solid black;
     margin: 3px;
 }
 

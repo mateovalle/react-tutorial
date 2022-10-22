@@ -1,0 +1,38 @@
+@import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+
+body {
+    background-image: url("../../../assets/purple_background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pokemon-title img {
+    max-width: 400px;
+    margin: auto;
+    display: block;
+}
+
+.pokemon-name {
+    font-family: "Courier New", sans-serif;
+    font-size: 20px;
+    padding: 4px;
+
+}
+
+.table-container {
+    background-color: #c8235b;
+}
+
+.table-row {
+    border-color: #470c4e;
+}
+
+.row-title {
+    background-image: linear-gradient(to bottom right, #00a9ff, #00e6f8 70%, #01d8f7 85%);
+    border: 3px inset white;
+    display: inline-block;
+    padding: 4px;
+    border-radius: 4px;
+    color: #ffe71e;
+    font-family: 'Pokemon Solid', sans-serif;
+}

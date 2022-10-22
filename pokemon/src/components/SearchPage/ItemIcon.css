@@ -1,0 +1,30 @@
+.item-info {
+    display: block;
+    text-align: left;
+}
+
+.row-title {
+    display: block;
+    text-align: center;
+}
+
+.item-container {
+    background-color: #c8235b;
+    max-width: 150px;
+    border: 5px outset gold;
+    flex-wrap: wrap;
+    margin: 6px;
+    padding: 6px;
+    border-radius: 10px;
+    transition: background-color 0.5s;
+    cursor: pointer;
+}
+
+.item-container:hover {
+    background-color: #ff2c73;
+}
+
+.item-container img {
+    margin: 10px auto;
+    display: block;
+}

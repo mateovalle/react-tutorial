@@ -1,9 +1,14 @@
-.modalContainer{
-    width: 100%;
-    display: flex;
-    font-size: 10px;
-    align-items: center;
-    align-content: space-around;
+
+.modalContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background-color: white;
+    border: 2px solid #000;
+    box-shadow: 2px 2px black;
+    padding: 4px;
 }
 
 .modalPicture {

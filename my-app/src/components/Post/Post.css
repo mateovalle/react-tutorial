@@ -1,7 +1,9 @@
 .postContainer{
+    background-color: white;
     max-width: 250px;
     margin: 20px auto;
     border: 1px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .profileData {
@@ -56,7 +58,6 @@
 
 .tag {
     margin: 3px;
-    background-color: rgba(24,25,212,0.2);
     font-size: 8px;
     border: none;
 }
@@ -65,8 +66,4 @@
     margin: 3px;
     color: rgba(156,25,16,0.87);
     font-size: 10px;
-}
-
-.tag:hover{
-    background-color: rgba(24,25,212,0.2);
 }

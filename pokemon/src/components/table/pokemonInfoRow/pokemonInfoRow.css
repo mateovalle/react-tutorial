@@ -1,0 +1,22 @@
+@import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+
+
+.table-body {
+    background-color: #fe1a55;
+    border: 6px solid #470c4e;
+}
+
+.table-cell {
+    background-color: #fe1a55;
+
+}
+
+.table-row {
+    border: 2px solid #470c4e;
+}
+
+.sprites {
+    background-image: linear-gradient(to bottom right, #01d8f7 , #00e6fe 30%, #01d8f7 80%);
+    border: 6px inset white;
+    width: 100px;
+}

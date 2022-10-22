@@ -1,0 +1,14 @@
+
+.validationLabel {
+    color: red;
+    font-size: 10px;
+    display: none;
+}
+
+#emailLabel {
+    display: none;
+}
+
+#passwordLabel {
+    display: none;
+}

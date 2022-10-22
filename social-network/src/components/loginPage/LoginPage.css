@@ -1,0 +1,9 @@
+.validationLabel {
+    display: none;
+    color: red;
+}
+
+.loginLogo {
+    width: 80px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9074b04b-0014-4224-9fac-b040b204836e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../apollo-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/ExchangeRates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/components/Countries.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/components/Country.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/components/Country.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apollo-test/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/actions/actions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/middleware/postsMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/middleware/sessionMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/middleware/usersMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/reducers/postsReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/reducers/reducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/reducers/sessionReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/reducers/usersReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/Redux/store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/components/Navbar/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/components/ProfileModal/ProfileModalMUI.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/components/SearchBar/SearchBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/components/SearchBar/SearchBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/components/appBar/AppBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/components/postMUI/PostMUI.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/components/postMUI/PostMUI.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/components/signIn/SignIn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/pages/HomePage/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/pages/LoginPage/LoginPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/pages/LoginPage/LoginPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/pages/PostsPage/PostsPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/pages/PostsPage/PostsPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/pages/SearchPage/Search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/pages/SignUpPage/SignUpPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/pages/TagPage/TagPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/utils/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/assets/Pokemon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/assets/purple_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/FavouritesPage/FavouritesPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/FavouritesPage/FavouritesPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/ItemIcon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/ItemIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/ItemIconsPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/ItemIconsPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/ItemInfoRow.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/ItemModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/ItemModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/ItemsPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/SearchPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/SearchingBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/SearchPage/SearchingBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/navbar/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/pokemonCard/PokemonCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/pokemonCard/PokemonCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/table/PokemonTable/PokemonTable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/table/PokemonTable/PokemonTable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/table/pokemonInfoRow/PokemonInfoRow.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/components/table/pokemonInfoRow/pokemonInfoRow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/redux/actions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/redux/middleware/ItemMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/redux/middleware/PokemonMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/redux/reducer/ItemReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/redux/reducer/pokemonReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/redux/reducer/rootReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/redux/store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/actions/followActions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/actions/postActions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/actions/sessionActions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/actions/usersActions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/middleware/followMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/middleware/postMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/middleware/sessionMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/middleware/usersMiddleware.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/reducers/followReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/reducers/postReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/reducers/rootReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/reducers/sessionReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/reducers/usersReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/blackAndWhiteTheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/loginPage/LoginPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/loginPage/LoginPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/myProfilePage/MyProfilePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navBar/NavBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navBar/NavBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/newPostPage/NewPostInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/postTag/PostTag.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signupPage/SignUpPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/ScrollToTop.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/ScrollToTop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/Comment/Comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/components/Comment/Comment.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/Navbar/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/components/Navbar/Navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/Navbar/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/Post/Post.css" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/components/Post/Post.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/Post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/components/Post/Post.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/ProfileModal/ProfileModal.css" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/components/ProfileModal/ProfileModal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/ProfileModal/ProfileModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/components/ProfileModal/ProfileModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/ProfileTag/ProfileTag.css" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/components/ProfileTag/ProfileTag.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/components/ProfileTag/ProfileTag.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/components/ProfileTag/ProfileTag.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/pages/HomePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/pages/NotFoundPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/pages/NotFoundPage/NotFoundPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/pages/PostsPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/pages/Profiles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/pages/ProfilesPage/Profiles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/pages/TagPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/pages/profiles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/pages/ProfilesPage/profiles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/svg/loader.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/assets/svg/loader.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26Tlqaf2WrEjyZGDhOv7L6UfhIH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/faculty/lab1/riders-mobile" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9074b04b-0014-4224-9fac-b040b204836e" name="Changes" comment="" />
+      <created>1647455650266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647455650266</updated>
+      <workItem from="1647455651449" duration="794000" />
+      <workItem from="1647526304947" duration="6338000" />
+      <workItem from="1648043770464" duration="298000" />
+      <workItem from="1648063992887" duration="68000" />
+      <workItem from="1648064065170" duration="1513000" />
+      <workItem from="1648646085599" duration="3176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
